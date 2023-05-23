@@ -35,7 +35,7 @@ De acuerdo a las especificaciones, lo que realicé fue lo siguiente:
    ```
    
 #### Es posible conectarse al container desde VsCode
-![linux-vm](https://github.com/daniblondeau/arroyo-consulting/assets/27524707/ada2ef8e-7c86-445d-9cca-bbf28fa35f22)
+![linux-vm](https://github.com/daniblondeau/arroyo-consulting/img/linux-vm.png)
 
 ***
 
@@ -68,4 +68,4 @@ De acuerdo a las especificaciones, lo que realicé fue lo siguiente:
    ```
 
 #### Web Page de Prueba
-![web-server](https://github.com/daniblondeau/arroyo-consulting/assets/27524707/a1c809cd-abfe-4370-a8af-1eb714b0f04b)
+![web-server](https://github.com/daniblondeau/arroyo-consulting/img/web-server.png)
